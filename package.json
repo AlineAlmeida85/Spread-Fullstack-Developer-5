@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "node-express",
+  "description": "Criando uma API com Express",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlineAlmeida85/Spread-Fullstack-Developer-5.git"
+  },
+  "author": "Aline Almeida\u001b[3~",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlineAlmeida85/Spread-Fullstack-Developer-5/issues"
+  },
+  "homepage": "https://github.com/AlineAlmeida85/Spread-Fullstack-Developer-5#readme"
+}
